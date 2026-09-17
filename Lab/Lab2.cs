@@ -3,7 +3,7 @@ namespace Lab;
 
 public class Lab2
 {
-    public static void Main2()
+    public static void MainLab2()
     {
         Ex1();
         Ex2();

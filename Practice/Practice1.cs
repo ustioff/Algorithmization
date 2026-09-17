@@ -1,0 +1,23 @@
+﻿using System;
+
+class Practice1 {
+    
+    static void MainPractice1() {
+        int N = Convert.ToInt32(Console.ReadLine());
+        String[] S = Console.ReadLine().Split();
+        
+        int L = Convert.ToInt32(S[0]);
+        int W = Convert.ToInt32(S[1]);
+        int K = Convert.ToInt32(S[2]);
+            
+        //для полива
+        int water = 2 * (L + W) * N;
+        //для дойти
+        int walking = 2 * K * N + (N - 1) * N * W;
+        //всего
+        int full = water + walking;
+        
+        Console.WriteLine(full);
+    }
+    
+}
