@@ -1,5 +1,5 @@
 ﻿using System;
-
+//Царегородцев Артемий МО-261 Практическая за 17.09.26
 class Practice1 {
     
     static void MainPractice1() {

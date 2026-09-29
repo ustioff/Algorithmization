@@ -1,6 +1,7 @@
 ﻿using System;
 namespace Lab;
 
+//Царегородцев Артемий МО-261 Лабараторная за 15.09.26
 public class Lab2
 {
     public static void MainLab2()
