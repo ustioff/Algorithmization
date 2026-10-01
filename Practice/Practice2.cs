@@ -39,7 +39,7 @@ class Practice2 {
             }
 
         }
-
+        //цена за литр
         double fullPrice = Math.Round(minPrice * 1000, 2);
         Console.WriteLine($"{farm} {fullPrice}");
     }
