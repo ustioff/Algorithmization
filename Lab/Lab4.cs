@@ -2,7 +2,7 @@
 
 public class Lab4
 {
-    public static void MainLab3()
+    public static void MainLab4()
     {
         Ex1();
         Ex2();
